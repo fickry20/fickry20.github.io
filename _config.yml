@@ -1,11 +1,11 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Fickry20
+description: Junior Network Engineer
 
-baseurl: /gradfolio #name of GitHub repository
+baseurl: / #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: #
+email: mohammad.fickry.pratama@gmail.com
 
 # Pagination
 paginate: 4
@@ -14,14 +14,14 @@ paginate_path: /blog/page:num/
 
 # Social media links in footer
 twitter: "#"
-linkedin: "#"
+linkedin: "Fickry Pratama"
 stackoverflow: "#"
 github: "#"
 researchgate: "#"
 orcid: "#"
 quora: "#"
-instagram: "#"
-facebook: "#"
+instagram: "fickry.20"
+facebook: "Fickry Pratama"
 
 
 # Markdown
